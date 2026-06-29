@@ -142,7 +142,7 @@ rosrun atividade_3 evaluate_amcl.py _map_name:=hector
 
 ### Análise Qualitativa dos Mapas
 
-- **Gmapping:** Produziu um mapa mais consistente no ambiente simulado. A completude foi satisfatória, com paredes bem alinhadas e baixa distorção nas quinas. As regiões desconhecidas ficaram limitadas apenas às partes externas que o LIDAR não alcançou.
+- **Gmapping:** Produziu um mapa mais consistente no ambiente simulado. A completude foi satisfatória, com paredes bem alinhadas e baixa distorção nas quinas.
   
   ![Mapa Gmapping](maps/map_gmapping.png)
 
