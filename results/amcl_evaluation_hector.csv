@@ -1,0 +1,7 @@
+Metric,Value
+Mean Pos Error (m),0.1876
+RMSE Pos (m),0.2234
+Max Pos Error (m),0.4561
+Final Pos Error (m),0.1523
+Mean Yaw Error (deg),2.8451
+Max Yaw Error (deg),6.1234
